@@ -1,0 +1,55 @@
+.btn{
+    width: 105px;
+    height: 25px;
+    gap:10px;
+    border-radius: 20px;
+    background: var(--191847, #191847);
+    display: block;
+    margin-top: -22px;
+    /* margin-left: 374px; */
+    margin-right: -80px;
+    color: #fff;
+}
+.btn-card{
+    height: 59px;
+    display: flex;
+    padding: 16px;
+    border-radius: 8px;
+    background: #4788E9;
+    box-shadow: 0px 7px 0px 0px #1C57EE;
+    border: none;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    align-self: stretch;
+}
+
+/* .heart{
+	animation: kalp 1s steps(28);
+	background-image:url(../icon/star.svg);
+    background-repeat: no-repeat;
+	background-position: 0 0;
+    padding-left: 63px;
+    padding-top: 15px;
+	cursor: pointer;
+	height: 100px;
+	width: 100px;
+}
+
+.heart:hover {
+	background-position: -2800px 0;
+	transition: background 1s steps(28);
+    background-color: red; 
+}
+
+@keyframes heart {
+	0% {
+		background-position: 0 0;
+	}
+	100% {
+		background-position: -2800px 0;
+	}
+} */
+/* Yüksekliğini ayarlayamadım  */
+
+/*  */

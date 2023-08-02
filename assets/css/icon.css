@@ -1,0 +1,17 @@
+.icon{ 
+    background-image: url(../icon/point.svg);
+    background-repeat: no-repeat;
+    padding-left: 20px;
+}
+.icon-scales{
+    background-image: url(../icon/scale.svg);
+    background-repeat: no-repeat;
+    padding-left: 39px;
+    padding-top: 13px
+}
+.icon-heart{
+    background-image: url(../icon/star.svg);
+    background-repeat: no-repeat;
+    padding-left: 45px;
+    padding-top: 13px;
+}

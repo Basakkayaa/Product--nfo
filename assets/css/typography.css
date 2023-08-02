@@ -1,0 +1,44 @@
+.m-82{
+    margin-top: 82px;
+    margin-left: 82px;
+}
+.mt-32{
+    margin-top: 32px;
+}
+.mb-32{
+    margin-bottom: 32px;
+}
+/* ********************* */
+.text-14{
+    font-size: 14px;
+}
+.text-18{
+    font-size: 18px;
+}
+.text-24{
+    font-size: 24px;
+}
+
+.text-48{
+    font-size: 48px;
+}
+/* ***************************** */
+.font-400{
+    font-weight: 400;
+}
+.font-600{
+    font-weight: 600;
+}
+.font-700{
+    font-weight: 700;
+}
+
+.text{
+    text-decoration: line-through;
+}
+.bg-blue{
+    color:#191847;
+}
+.color-w{
+    color: white;
+}
